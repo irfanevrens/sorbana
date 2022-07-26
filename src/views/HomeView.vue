@@ -6,7 +6,7 @@
     <p style="margin-bottom: 40px">Yarışmamıza hoşgeldiniz.</p>
     <img src="@/assets/meb.jpeg" width="300">
     <p>
-      <a href="/soru/1">Yarışmaya Başla Kardeş 3</a>
+      <a href="/soru/1">Yarışmaya Başla</a>
     </p>
   </main>
 </template>
