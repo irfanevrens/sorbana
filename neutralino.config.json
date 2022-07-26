@@ -1,0 +1,36 @@
+{
+  "applicationId": "com.ifyazilim.sorbana",
+  "port": 8080,
+  "defaultMode": "window",
+  "enableServer": true,
+  "enableNativeAPI": true,
+  "url": "/dist/",
+  "logging": {
+    "enabled": true
+  },
+  "modes": {
+    "window": {
+      "title": "SORBANA V1.1",
+      "width": 800,
+      "height": 500,
+      "minWidth": 400,
+      "minHeight": 250,
+      "fullScreen": false,
+      "alwaysOnTop": false,
+      "icon": "/files/icons/icon.png",
+      "enableInspector": false,
+      "borderless": false,
+      "maximize": false,
+      "exitProcessOnClose": true
+    },
+    "browser": {},
+    "cloud": {}
+  },
+  "cli": {
+    "binaryName": "sorbasna",
+    "resourcesPath": "/dist/",
+    "clientLibrary": "/resources/neutralino.js",
+    "binaryVersion": "3.0.0",
+    "clientVersion": "2.0.0"
+  }
+}
